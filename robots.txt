@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-524v5x.10depositcasino.co.nz/sitemap.xml
